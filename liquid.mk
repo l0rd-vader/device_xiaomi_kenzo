@@ -33,9 +33,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 
 # Define host and user
-KBUILD_BUILD_HOST=Executor
-KBUILD_BUILD_USER=l0rd_vader
-DEVICE_MAINTAINERS="Haresh R. (l0rd_vader)"
+KBUILD_BUILD_HOST="Executor"
+KBUILD_BUILD_USER="l0rd_vader"
+DEVICE_MAINTAINERS="l0rd_vader"
 
 
 # Use the latest approved GMS identifiers unless running a signed build
